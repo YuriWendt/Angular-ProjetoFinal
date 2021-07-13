@@ -1,28 +1,41 @@
-# ProjetoFinal
+# Projeto Angular 
+## Projeto final contem vários minis projetos dentro dele
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+![N|Solid](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![N|Solid](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Build Status](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+**Projeto feito em Angular com Bootstrap e CSS puro como routing de componentes**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+> -   ngClass
+> -   ngIf
+> -   Class Binding
+> -   Propertie Binding
+> -   Event Binding
+> -   Service
+> -   Provider
+> -   Module
+> -   Directive
 
-## Build
+_Faça o clone do projeto, entre na pasta e execute os seguintes comandos:_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+1.  > **`npm install`**
+    
+2.  > **`ng serve`**
+    
 
-## Running unit tests
+O Projeto feito em  [Angular CLI](https://github.com/angular/angular-cli)  version 12.1.1
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- ✨Gráficos de cadastros ✨![](https://imgur.com/WuNwSS7.png)
 
-## Running end-to-end tests
+- ✨Jogo da Velha ✨
+![](https://imgur.com/UH80XOy.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- ✨Calculadora ✨
+![](https://imgur.com/dFtsEvG.png)
+- ✨Conversor de moedas ✨
+![](https://imgur.com/U5cIfUG.png)
+- ✨Gerenciador de Tarefas ✨
+![](https://imgur.com/rxynn1D.png)
